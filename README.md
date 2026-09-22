@@ -2,9 +2,6 @@
 
 <div align="center">
   <p><strong>Automation Architect | Systems Experimenter | Applied AI Practitioner</strong></p>
-  <a href="https://www.linkedin.com/in/raghavendra-b-m-56b1ba139">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
 </div>
 
 <br>
@@ -29,7 +26,7 @@ I don't just talk about AI trends; I build the RAG architectures, local LLM pipe
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white" alt="BigQuery" />
   <br>
-  <!-- Automation & AI (Custom colored badges) -->
+  <!-- Automation & AI -->
   <img src="https://img.shields.io/badge/LLM_Orchestration-FF9900?style=for-the-badge&logo=meta&logoColor=white" alt="LLMs" />
   <img src="https://img.shields.io/badge/n8n_Automation-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/RAG_Architecture-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="RAG" />
@@ -45,12 +42,12 @@ I don't just talk about AI trends; I build the RAG architectures, local LLM pipe
 
 ---
 
-### 📊 GitHub Analytics
+### 🤝 Let's Connect
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaasu-G-Wills&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
+<p>
+  <strong>Current Focus:</strong> I am transitioning fully into the infrastructure side of technology, exploring roles in <strong>System Automation, Platform Engineering, and Applied AI Architecture</strong>.
+</p>
 
-<br>
-
-> **Current Focus:** I am transitioning fully into the infrastructure side of technology, exploring roles in **System Automation, Platform Engineering, and Applied AI Architecture**.
+<a href="Insert-Your-LinkedIn-URL-Here">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
