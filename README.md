@@ -48,6 +48,6 @@ I don't just talk about AI trends; I build the RAG architectures, local LLM pipe
   <strong>Current Focus:</strong> I am transitioning fully into the infrastructure side of technology, exploring roles in <strong>System Automation, Platform Engineering, and Applied AI Architecture</strong>.
 </p>
 
-<a href="Insert-Your-LinkedIn-URL-Here">
+<a href="https://www.linkedin.com/in/raghavendra-b-m-56b1ba139">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
