@@ -2,7 +2,7 @@
 
 <div align="center">
   <p><strong>Automation Architect | Systems Experimenter | Applied AI Practitioner</strong></p>
-  <a href="Insert-Your-LinkedIn-URL-Here">
+  <a href="https://www.linkedin.com/in/raghavendra-b-m-56b1ba139">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </div>
