@@ -1,7 +1,12 @@
+<img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=2000&auto=format&fit=crop" width="100%" alt="Mesh Network Banner">
+
 <h2 align="center">⚡ Operations scale when you stop throwing human hours at systemic problems.</h2>
 
+<!-- 2. ANIMATED TYPING TEXT -->
 <div align="center">
-  <p><strong>Automation Architect | Systems Experimenter | Applied AI Practitioner</strong></p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Automation+Architect;Systems+Experimenter;Applied+AI+Practitioner" alt="Typing SVG" />
+  </a>
 </div>
 
 <br>
@@ -48,6 +53,6 @@ I don't just talk about AI trends; I build the RAG architectures, local LLM pipe
   <strong>Current Focus:</strong> I am transitioning fully into the infrastructure side of technology, exploring roles in <strong>System Automation, Platform Engineering, and Applied AI Architecture</strong>.
 </p>
 
-<a href="https://www.linkedin.com/in/raghavendra-b-m-56b1ba139">
+<a href="https://www.linkedin.com/in/raghavendra-b-m-56b1ba139/">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
